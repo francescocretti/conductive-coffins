@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Surfin HU.ZZ.AH</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="keyboard_ins">
+        <item>Acoustic Grand Piano</item>
+        <item>Electric Piano</item>
+        <item>Vibraphone</item>
+        <item>Accordion</item>
+        <item>Xilophone</item>
+        <item>Honky Tonk Piano</item>
+        <item>Harpsichord</item>
+        <item>Rock Organ</item>
+        <item>Church Organ</item>
+        <item>Marimba</item>
+    </string-array>
+
+    <string-array name="wind_ins">
+        <item>Trumpet</item>
+        <item>Harmonica</item>
+        <item>Trombone</item>
+        <item>Sax Tenor</item>
+        <item>Choir</item>
+        <item>French Horn</item>
+        <item>Oboe</item>
+        <item>Clarinet</item>
+        <item>Ocarina</item>
+        <item>Whistle</item>
+    </string-array>
+
+    <string-array name="rootNotes">
+        <item>C</item>
+        <item>C#</item>
+        <item>D</item>
+        <item>D#</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#</item>
+        <item>G</item>
+        <item>G#</item>
+        <item>A</item>
+        <item>A#</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="scaleType">
+        <item>Major</item>
+        <item>Minor</item>
+        <item>Dorian</item>
+        <item>Lydian</item>
+        <item>Mixolydian</item>
+    </string-array>
+
+</resources>

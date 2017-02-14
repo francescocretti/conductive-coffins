@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme colors -->
+    <color name="primary">#FFEB3B </color>
+    <color name="primary_dark">#212121 </color>
+    <color name="accent">#FFFF00 </color>
+    <color name="title_text">#212121 </color>
+    <color name="text">#FFFDE7 </color>
+
+</resources>

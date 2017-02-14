@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="RtlHardcoded">
+
+  <TextView
+      android:id="@+id/intro"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginBottom="8dp"
+      android:gravity="center"
+      android:text="@string/intro"
+      android:textAppearance="?android:attr/textAppearanceMedium"
+
+  />
+
+
+  <Button
+      android:id="@+id/noteDO"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentLeft="true"
+      android:layout_below="@+id/intro"
+      android:text="DO" />
+
+  <Button
+      android:id="@+id/noteFA"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignLeft="@+id/noteDO"
+      android:layout_below="@+id/noteDO"
+      android:layout_marginTop="8dp"
+      android:text="FA" />
+
+
+
+
+
+  <Button
+      android:id="@+id/noteSOL"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="SOL"
+      android:layout_alignBaseline="@+id/noteFA"
+      android:layout_alignBottom="@+id/noteFA"
+      android:layout_toRightOf="@+id/noteDO"
+      android:layout_toEndOf="@+id/noteDO" />
+
+
+  <TextView
+      android:id="@+id/status"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignLeft="@+id/noteFA"
+      android:layout_below="@+id/noteFA"
+      android:layout_marginTop="8dp"
+      android:gravity="center"
+      android:textAppearance="?android:attr/textAppearanceMedium"
+
+      />
+
+  <Button
+      android:id="@+id/noteRE"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="RE"
+      android:layout_alignBaseline="@+id/noteDO"
+      android:layout_alignBottom="@+id/noteDO"
+      android:layout_alignRight="@+id/intro"
+      android:layout_alignEnd="@+id/intro" />
+
+  <Button
+      android:id="@+id/noteMI"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="MI"
+      android:layout_alignBaseline="@+id/noteRE"
+      android:layout_alignBottom="@+id/noteRE"
+      android:layout_toRightOf="@+id/noteRE"
+      android:layout_toEndOf="@+id/noteRE" />
+
+  <Button
+      android:id="@+id/noteLA"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="LA"
+      android:layout_alignBaseline="@+id/noteSOL"
+      android:layout_alignBottom="@+id/noteSOL"
+      android:layout_toRightOf="@+id/noteSOL"
+      android:layout_toEndOf="@+id/noteSOL" />
+
+  <Button
+      android:id="@+id/noteSI"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="SI"
+      android:layout_alignBaseline="@+id/noteLA"
+      android:layout_alignBottom="@+id/noteLA"
+      android:layout_toRightOf="@+id/noteLA"
+      android:layout_toEndOf="@+id/noteLA" />
+
+</RelativeLayout>

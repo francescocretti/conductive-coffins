@@ -1,0 +1,68 @@
+[
+    {
+        "outputFile": "/Users/Quique/AndroidStudioProjects/miditest-master/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/Quique/AndroidStudioProjects/miditest-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 54,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endLine": 7,
+                    "endColumn": 15,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "/Users/Quique/AndroidStudioProjects/miditest-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 6,
+                        "startOffset": 351,
+                        "endLine": 22,
+                        "endColumn": 15,
+                        "endOffset": 517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endLine": 10,
+                    "endColumn": 11,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "/Users/Quique/AndroidStudioProjects/miditest-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 98,
+                        "endLine": 6,
+                        "endColumn": 11,
+                        "endOffset": 148
+                    }
+                }
+            }
+        ]
+    }
+]

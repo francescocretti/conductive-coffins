@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MidiTest</string>
+    <string formatted="false" name="format">
+        Notes:\n
+        notes = %d,%d,%d,%d,%d,%d,%d\npitch = %d,%d,%d,%d,%d,%d,%d\n
+        velocity = %d\n
+      </string>
+    <string name="intro">
+    CACCA MUSICA
+  </string>
+</resources>

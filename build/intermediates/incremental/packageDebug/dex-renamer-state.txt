@@ -1,0 +1,7 @@
+#Thu Jan 26 16:03:41 CET 2017
+base.0=/Users/Quique/AndroidStudioProjects/miditest-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_95c4905dcaf47de19ae11c2264c9de28fbf2942c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Quique/AndroidStudioProjects/miditest-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_16e882b9634c8bc3a8e4044950e1e282a9fe3d2c/classes.dex
+base.1=/Users/Quique/AndroidStudioProjects/miditest-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_16e882b9634c8bc3a8e4044950e1e282a9fe3d2c
+file.0=/Users/Quique/AndroidStudioProjects/miditest-master/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_95c4905dcaf47de19ae11c2264c9de28fbf2942c/classes.dex
