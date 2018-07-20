@@ -46,14 +46,8 @@ boolean instrument=false;
 int volume=90; //default volume
 
 //wifi connection
-//char ssid[] = "Vodafone-27786346";      // your network SSID (Valido)
-//char pass[] = "z9f45mcyjdty4ft";   // your network password
-
-char ssid[] = "moto";      // your network SSID (Motorola HotSpot)
-char pass[] = "validook";
-
-//char ssid[] = "FASTWEB-1-bxRK8QKqVRZp";      // your network SSID (Cretti)
-//char pass[] = "GnEdtyKSpH";   // your network password
+char ssid[] = "";      // your network SSID
+char pass[] = ""; // your network password
 //int keyIndex = 0;                 // your network key Index number (needed only for WEP)
 
 // How often to ping (milliseconds)
