@@ -10,6 +10,3 @@ _**conductive_KeyWind_Instrument/conductive_KeyWind_Instrument.ino**_
 - accelerometer reading with Adafruit MMA8451 breakout
 - analog microphone reading with Adafruit MAX4466 Electret Microphone Amplifier
 - Wifi communication with Android
-
-
-### Android side
